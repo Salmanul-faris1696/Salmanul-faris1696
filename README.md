@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**Salmanul-faris1696/Salmanul-faris1696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salmanul Faris, a passionate MERN Stack Developer.
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:*Rootsys-International*
+- as a inter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Learning:**
+- React.js and Express.js
+- Improving skills in [html,css,javascript,react,node,express].
+
+👯 **Looking to Collaborate On:**
+- Open source projects.
+- Exciting web development projects.
+
+💬 **Ask Me About:**
+- MERN Stack Development.
+- Frontend and Backend technologies
+
+📫 **How to Reach Me:**
+- LinkedIn: Salmanul Faris.v([LinkedIn Link](https://www.linkedin.com/in/salmanul-faris-v-314a14253/))
+- Email:salmansb0786@gmail.com
+
+😄 **Pronouns:**
+- He/Him
+
+⚡ **Fun Fact:**
+- Embarking on my coding journey, each bug I encountered became a stepping stone, not a stumbling block.
+
+
+
+
+
+
