@@ -21,7 +21,7 @@ As a fresher in the software development field, I am eager to apply my theoretic
 
 ### Socials
 
-<p align="left">
+<p align="left" style="display: flex; gap: 5px;">
   <a href="https://www.github.com/Salmanul-faris1696" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
@@ -35,6 +35,7 @@ As a fresher in the software development field, I am eager to apply my theoretic
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
   </a>
 </p>
+
 
 
 ### Badges
