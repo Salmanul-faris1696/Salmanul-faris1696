@@ -21,10 +21,8 @@ As a fresher in the software development field, I am eager to apply my theoretic
 
 ### Socials
 
-<p align="left" style="display: flex; gap: 5px;">
-  <a href="https://www.github.com/Salmanul-faris1696" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
+<p align="left" style="display: flex; gap: 5;">
+ 
   <a href="http://www.instagram.com/sellluu._" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
